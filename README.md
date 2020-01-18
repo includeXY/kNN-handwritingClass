@@ -2,6 +2,8 @@
 
 使用kNN算法识别手写数字。
 
+digits解压后得到两个文件夹：
+
 trianningDigits是训练集数据文件夹
 
 testDigits是测试数据文件夹
